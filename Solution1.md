@@ -1,3 +1,6 @@
+Time complexity: O(log(m) + log(n)) <br>
+Space complexity: O(1)
+
 ```
 public class Solution {
     public static void main(String[] args) {
